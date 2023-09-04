@@ -1,0 +1,29 @@
+body {
+    background-image: url('https://www.gov.br/saude/pt-br/assuntos/saude-brasil/eu-quero-me-alimentar-melhor/noticias/2022/como-escolher-higienizar-e-armazenar-frutas-verduras-e-legumes/como-escolher-higienizar-e-armazenar-frutas-verduras-e-legumes.png');
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 2px 2px rgb(255, 255, 255);
+    text-align: center;
+  }
+
+  h1{
+    font-size: 30px;
+  }
+
+  h2{
+    font-size: 25px;
+  }
+
+  p{
+    font-size: 20px;
+  }
+
+  hr{
+    height: 3px;
+    background-color: black;
+    border: none;
+  }
+
+
+  
+  
